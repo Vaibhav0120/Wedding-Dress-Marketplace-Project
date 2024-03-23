@@ -387,10 +387,15 @@ footer .copyright a:hover{
 /*-----------------------------------------         CART.HTML          -----------------------------------------------*/
 /* ------------------------------------------------------------------------------------------------------------------ */
 
+#cart-container{
+  overflow-x: auto;
+}
+
 #cart-container table{
   border-collapse: collapse;
   width: 100%;
   table-layout: fixed;
+  white-space: nowrap;
 }
 
 #cart-container table thead{   
@@ -436,7 +441,7 @@ footer .copyright a:hover{
  #cart-container table tbody i{
   color: #8d8c89;
  }
-    /* --CART BOTTOM--  */
+    /* --------------CART BOTTOM----------------  */
   #cart-bottom .coupon>div,
   #cart-bottom .total>div{
     border: 1px solid #b6b3b3;
@@ -460,7 +465,8 @@ footer .copyright a:hover{
     height: 44px;
   }
 
-  #cart-bottom .coupon input{
+  #cart-bottom .coupon input,
+  #cart-bottom .coupon button {
     margin: 0 0 20px 12px;
   }
 
