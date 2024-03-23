@@ -89,12 +89,10 @@
                   </li>
                   <!--Icon-->
                   <li class="nav-item">
-                    <a href="#"> 
+                     
                       <i class="fal fa-search"></i> 
-                    </a>
-                    <a href="cart.html"> 
-                      <i class="fal fa-shopping-bag"></i>
-                    </a>
+                      <i id="cart-icon" class="fal fa-shopping-bag"></i>
+                    
                   </li>
                   
                   
@@ -453,6 +451,17 @@
             smallImg[3].onclick = function(){
                 MainImg.src = smallImg[3].src;
             }
+        </script>
+
+        <script>
+           // Get the cart icon element
+           var cartIcon = document.getElementById("cart-icon");
+
+          // Add click event listener to the cart icon
+          cartIcon.addEventListener("click", function() {
+              // Redirect to cart.html
+              window.location.href = "cart.html";
+          });
         </script>
     </body>
 

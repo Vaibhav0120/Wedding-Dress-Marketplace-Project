@@ -75,12 +75,15 @@ hr {
 }
 
   /* (NavBar Items) */
-.navbar-light .navbar-nav .nav-link{
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .nav-link i {
   padding: 0 20px;    /* spacing between navbar item */
   color: black;
   transition: 0.3s ease;
   font-weight: 500;
 }
+
+
 
       /* Hover Effect of complete NavBar Execpt Mobile [down] */
 .navbar-light .navbar-nav .nav-link:hover,
