@@ -54,7 +54,9 @@ button{
 }
 button:hover{
   background-color: #3a3833;
-
+}
+button:focus{
+  outline: none;
 }
 
 hr {
@@ -77,6 +79,7 @@ hr {
   padding: 0 20px;    /* spacing between navbar item */
   color: black;
   transition: 0.3s ease;
+  font-weight: 500;
 }
 
       /* Hover Effect of complete NavBar Execpt Mobile [down] */
