@@ -51,6 +51,23 @@
   experience from start to finish.
 </p>
 
+<br>
+
 <h2 align="center">
 Whether you're envisioning a traditional Indian wedding or opting for a contemporary Western ceremony, "Say Yess!" offers a one-stop destination for all your wedding attire and accessory needs, making your special day truly unforgettable. Join us in celebrating love, culture, and style!
 </h2>
+
+<h1 align="center">Screenshots</h1>
+
+<br>
+
+<img src="https://github.com/Vaibhav0120/Shopping-Website-Project/assets/150184948/adf328e8-bfdf-41d1-8383-5c18efabbccb">
+<img src="https://github.com/Vaibhav0120/Shopping-Website-Project/assets/150184948/b5ae4d46-6ce8-4d7c-be17-24cbc6147d2c">
+<img src="https://github.com/Vaibhav0120/Shopping-Website-Project/assets/150184948/c13dd5ca-1316-4e5f-aa14-5a5e50526fb2">
+<img src="https://github.com/Vaibhav0120/Shopping-Website-Project/assets/150184948/3e5e8c21-2614-4bb2-ac51-a1df17614395">
+<img src="https://github.com/Vaibhav0120/Shopping-Website-Project/assets/150184948/0fced7ab-062f-4f72-898a-0b6964cd45d5">
+
+<br>
+<h3 align="centre">This is a personal learning project for me.
+Please feel free to fork this repo.
+Made By: Vaibhav Sharma</h3>
