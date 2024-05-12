@@ -68,6 +68,5 @@ Whether you're envisioning a traditional Indian wedding or opting for a contempo
 <img src="https://github.com/Vaibhav0120/Shopping-Website-Project/assets/150184948/0fced7ab-062f-4f72-898a-0b6964cd45d5">
 
 <br>
-<h3 align="centre">This is a personal learning project for me.
-Please feel free to fork this repo.
-Made By: Vaibhav Sharma</h3>
+<h3 align="center">This is a personal learning project for me.Please feel free to fork this repo.</h3>
+<h2 align="center">Made By: Vaibhav Sharma</h2>
