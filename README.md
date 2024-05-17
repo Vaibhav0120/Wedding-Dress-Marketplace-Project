@@ -10,42 +10,42 @@
 
 <h2 align="center">Key Features:</h2>
 
-<h3>Extensive Catalog:</h3> 
+<h3>✨ Extensive Catalog:</h3> 
 <p>
   Browse through an extensive collection of wedding dresses, including traditional Indian lehengas, sarees, and salwar suits, as well as Western gowns, dresses, and 
   suits, ensuring a wide range of choices for every taste and culture.
 </p>
 
-<h3>Customization Options: </h3>
+<h3>✨ Customization Options: </h3>
 <p>
   Personalize your wedding attire with customization options such as color, size, fabric, and embellishments, allowing brides and grooms to create their dream 
   wedding ensemble.
 </p>
 
-<h3>Accessory Marketplace:</h3> 
+<h3>✨ Accessory Marketplace:</h3> 
 <p>
   Explore a curated selection of accessories including jewelry, footwear, veils, turbans, and handbags, providing the perfect finishing touches to complete your 
   wedding look.
 </p>
 
-<h3>Vendor Collaboration: </h3>
+<h3>✨ Vendor Collaboration: </h3>
 <p>
   Collaborate with reputed designers, boutique owners, and skilled artisans, fostering a community-driven marketplace where creativity thrives and craftsmanship is 
   celebrated.
 </p>
 
-<h3>User-friendly Interface: </h3>
+<h3>✨ User-friendly Interface: </h3>
 <p>
   Enjoy a seamless shopping experience with an intuitive interface, easy navigation, and advanced search filters, ensuring that you find the perfect attire and 
   accessories with ease.
 </p>
 
-<h3>Secure Transactions: </h3>
+<h3>✨ Secure Transactions: </h3>
 <p>
   Shop with confidence knowing that all transactions are secure and protected, with multiple payment options available for convenience.
 </p>
 
-<h3>Customer Support: </h3>
+<h3>✨ Customer Support: </h3>
 <p>
   Benefit from dedicated customer support services to address any queries, concerns, or assistance needed throughout the shopping journey, ensuring a delightful 
   experience from start to finish.
